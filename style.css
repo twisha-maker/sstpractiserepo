@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding-top: 800px;
+    text-align: center;
+    
+}
+
+#mainpage {
+    border-radius: 50%;
+    background-color: cyan;
+
+}
+
+
+}
+
+
+
+h1{
+
+    font-size: 40px;
+    font-family: sans-serif;
+    font-weight: 300;
+font-family: 'Nerko One', cursive;
+}
+
+
+}
+
+h2 {
+    font-size: 30px;
+    font-weight: 300;
+    font-family: monospace;
+}
+
+
+}
+
+
+
+
+p {
+    font-size: 17px;
+    font-family: cursive;
+}
+
+
+html {
+    scroll-behavior: smooth;
+}
+.article:hover {
+    color:fuchsia;
+}
+
+
+
+/*ADD CSS FROM HERE */
+a{
+    text-decoration: none;
+    color: crimson;
+    text-shadow: 2px 2px gainsboro;
+}
+#writings a{
+text-shadow: none;
+    text-decoration: underline ;
+        color:blue;
+    }
+#mainpage{
+    background-color:fuchsia;
+    
+}
+#conatact iframe{
+    width: 100%
+}
+.contact1 h3{
+    display: inline;
+}
+.contact1 a{
+    color: white;
+    text-shadow: none;
+}
+.menu{
+    position: fixed;
+    background: white;
+    width: 100%;
+    margin-top: 0px;
+    top: 0px;
+    z-index: 10;
+}
+.links{
+    
+  
+    font-family: fantasy;
+    font-size: 20px;
+}
+.links:hover{
+    font-size: 25px;
+    text-decoration: underline;
+}
+img{
+    width: 400px;
+    height: 400px;
+}
